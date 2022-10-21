@@ -1,0 +1,15 @@
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_Lekc\Massive_Array2\obj\Debug\net6.0\Massive_Array2.csproj.AssemblyReference.cache
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_Lekc\Massive_Array2\obj\Debug\net6.0\Massive_Array2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_Lekc\Massive_Array2\obj\Debug\net6.0\Massive_Array2.AssemblyInfoInputs.cache
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_Lekc\Massive_Array2\obj\Debug\net6.0\Massive_Array2.AssemblyInfo.cs
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_Lekc\Massive_Array2\obj\Debug\net6.0\Massive_Array2.csproj.CoreCompileInputs.cache
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_Lekc\Massive_Array2\bin\Debug\net6.0\Massive_Array2.exe
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_Lekc\Massive_Array2\bin\Debug\net6.0\Massive_Array2.deps.json
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_Lekc\Massive_Array2\bin\Debug\net6.0\Massive_Array2.runtimeconfig.json
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_Lekc\Massive_Array2\bin\Debug\net6.0\Massive_Array2.dll
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_Lekc\Massive_Array2\bin\Debug\net6.0\Massive_Array2.pdb
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_Lekc\Massive_Array2\obj\Debug\net6.0\Massive_Array2.dll
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_Lekc\Massive_Array2\obj\Debug\net6.0\refint\Massive_Array2.dll
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_Lekc\Massive_Array2\obj\Debug\net6.0\Massive_Array2.pdb
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_Lekc\Massive_Array2\obj\Debug\net6.0\Massive_Array2.genruntimeconfig.cache
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_Lekc\Massive_Array2\obj\Debug\net6.0\ref\Massive_Array2.dll
