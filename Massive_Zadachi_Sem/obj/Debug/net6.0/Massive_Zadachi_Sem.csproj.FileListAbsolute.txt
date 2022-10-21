@@ -1,0 +1,15 @@
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\Massive_Zadachi_Sem\obj\Debug\net6.0\Massive_Zadachi_Sem.csproj.AssemblyReference.cache
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\Massive_Zadachi_Sem\obj\Debug\net6.0\Massive_Zadachi_Sem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\Massive_Zadachi_Sem\obj\Debug\net6.0\Massive_Zadachi_Sem.AssemblyInfoInputs.cache
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\Massive_Zadachi_Sem\obj\Debug\net6.0\Massive_Zadachi_Sem.AssemblyInfo.cs
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\Massive_Zadachi_Sem\obj\Debug\net6.0\Massive_Zadachi_Sem.csproj.CoreCompileInputs.cache
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\Massive_Zadachi_Sem\bin\Debug\net6.0\Massive_Zadachi_Sem.exe
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\Massive_Zadachi_Sem\bin\Debug\net6.0\Massive_Zadachi_Sem.deps.json
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\Massive_Zadachi_Sem\bin\Debug\net6.0\Massive_Zadachi_Sem.runtimeconfig.json
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\Massive_Zadachi_Sem\bin\Debug\net6.0\Massive_Zadachi_Sem.dll
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\Massive_Zadachi_Sem\bin\Debug\net6.0\Massive_Zadachi_Sem.pdb
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\Massive_Zadachi_Sem\obj\Debug\net6.0\Massive_Zadachi_Sem.dll
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\Massive_Zadachi_Sem\obj\Debug\net6.0\refint\Massive_Zadachi_Sem.dll
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\Massive_Zadachi_Sem\obj\Debug\net6.0\Massive_Zadachi_Sem.pdb
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\Massive_Zadachi_Sem\obj\Debug\net6.0\Massive_Zadachi_Sem.genruntimeconfig.cache
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\Massive_Zadachi_Sem\obj\Debug\net6.0\ref\Massive_Zadachi_Sem.dll

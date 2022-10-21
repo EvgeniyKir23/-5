@@ -1,0 +1,5 @@
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\obj\Debug\net6.0\Massive_sem.csproj.AssemblyReference.cache
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\obj\Debug\net6.0\Massive_sem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\obj\Debug\net6.0\Massive_sem.AssemblyInfoInputs.cache
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\obj\Debug\net6.0\Massive_sem.AssemblyInfo.cs
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\obj\Debug\net6.0\Massive_sem.csproj.CoreCompileInputs.cache
