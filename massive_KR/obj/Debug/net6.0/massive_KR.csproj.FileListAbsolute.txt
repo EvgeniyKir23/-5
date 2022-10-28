@@ -1,0 +1,15 @@
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\massive_KR\bin\Debug\net6.0\massive_KR.exe
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\massive_KR\bin\Debug\net6.0\massive_KR.deps.json
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\massive_KR\bin\Debug\net6.0\massive_KR.runtimeconfig.json
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\massive_KR\bin\Debug\net6.0\massive_KR.dll
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\massive_KR\bin\Debug\net6.0\massive_KR.pdb
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\massive_KR\obj\Debug\net6.0\massive_KR.csproj.AssemblyReference.cache
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\massive_KR\obj\Debug\net6.0\massive_KR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\massive_KR\obj\Debug\net6.0\massive_KR.AssemblyInfoInputs.cache
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\massive_KR\obj\Debug\net6.0\massive_KR.AssemblyInfo.cs
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\massive_KR\obj\Debug\net6.0\massive_KR.csproj.CoreCompileInputs.cache
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\massive_KR\obj\Debug\net6.0\massive_KR.dll
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\massive_KR\obj\Debug\net6.0\refint\massive_KR.dll
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\massive_KR\obj\Debug\net6.0\massive_KR.pdb
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\massive_KR\obj\Debug\net6.0\massive_KR.genruntimeconfig.cache
+C:\Users\KirillovEE\Documents\Massive_Lekc_Sem\Massive_sem\massive_KR\obj\Debug\net6.0\ref\massive_KR.dll
